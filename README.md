@@ -78,4 +78,4 @@ git push origin main
 - Proyecto desarrollado aplicando conceptos de Big Data, Python y
 bases de datos NoSQL.
 - Ispilco Quispe Jhon Enderson®
-- Fecha: 11.10.2025
+- Fecha: 14.10.2025
